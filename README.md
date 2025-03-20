@@ -24,7 +24,3 @@ Welcome to the **Sunchaser Structures Terminal App**, designed for efficient tra
 ## Screenshots
 
 <img src="https://github.com/ayushraiyani0003/sunchaser_terminal_apk/blob/c834de0b8f25134affa238a2e53f99f5a1c932a9/image.jpeg" height="500" />
-
-## Contributing
-
-If you would like to contribute to the development of this app, please fork the repository and submit a pull request with your changes.
